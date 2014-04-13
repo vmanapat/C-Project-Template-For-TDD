@@ -7,7 +7,9 @@ To install run the following:
 
 
 ```
-$ git clone https://github.com/vmanapat/C-Project-Template-For-TDD.git
+$ mkdir template
+$ git clone https://github.com/vmanapat/C-Project-Template-For-TDD.git template/
+$ cd template
 $ git submodule init
 $ git submodule update
 ```
