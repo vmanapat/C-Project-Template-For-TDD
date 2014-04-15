@@ -1,5 +1,8 @@
+
 C Project Template for TDD
 ==========================
+[![BuildStatus](https://travis-ci.org/vmanapat/C-Project-Template-For-TDD.svg?branch=master)](https://travis-ci.org/vmanapat/C-Project-Template-For-TDD)
+
 This is a template you can use to start a project in C using TDD. It uses the
 Unity testing library as a git submodule.
 
